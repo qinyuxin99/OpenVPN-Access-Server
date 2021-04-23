@@ -22,8 +22,12 @@ rpm -ivh openvpn-as-2.5.2-CentOSrelease.x86_64.rpm
 安装完成后修改管理密码：
 
 passwd openvpn
+![image](https://user-images.githubusercontent.com/50575594/115898222-5be4a100-a46e-11eb-9915-21b12c294047.png)
+
 
 管理端Admin UI: https://64.115.4.23:943/admin
+![image](https://user-images.githubusercontent.com/50575594/115898274-6bfc8080-a46e-11eb-988d-86d3ccfc31bd.png)
+
 
 登录后可以看到最多允许两个用户连接，个人使用足够了，不够的话下面有破解方法。
 ![image](https://user-images.githubusercontent.com/50575594/115898136-44a5b380-a46e-11eb-84b5-227937133f3d.png)
