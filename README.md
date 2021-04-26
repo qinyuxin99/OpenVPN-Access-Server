@@ -7,6 +7,7 @@ https://www.wangfeng.live/2020/11/centos7-openvpn-access-server-installation-lat
 
 破解版安装包git网址：
 https://gitee.com/wangfeng-1/openvpnas
+
 https://github.com/heroking/openvpn_as_crack
 
 安装OpenVPN Access Server
